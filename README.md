@@ -74,7 +74,29 @@ Through this project, I wanted to demonstrate my ability for data-driven decisio
 
 
    I am going to look into Mint Classics' business problem, which is that company wants to close one of its warehouses. I will determine which tables are relevant to the problem and use SQL queries to obtain the required information.
+   Let's create a temporary table to evaluate the difference between our product stock and the inventory that remains after fulfillment (shipped and resolved orders). This table will be a useful resource for identifying overstock, appropriately stocked commodities, and understock conditions.
    
+   <img width="468" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/818f2029-45dc-43d4-9b40-980dd44d9476">
+   
+   Then, determine the quantity of products that are wellstocked, overstocked and understocked in each warehouse.
+   
+   
+   <img width="299" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/324eb642-670e-4641-87fe-18c1f1117f65">
+   
+
+   <img width="299" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/292ea044-697b-4f65-8f9c-8134f6a27eed">
+   
+
+   => It appears that Warehouse B has the highest quantity of overstocked products, totaling 29 items, while both Warehouse A and Warehouse C have the same number of overstocked products, amounting to 19 each.
+
+   Subsequently, we can analyze various product lines, identifying those with the highest sales percentages, and gain insights into each product line's inventory and sales performance.
+
+<img width="468" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/e3334e33-c601-46d5-b65f-42699a57995a">
+
+**Task 4 - Report**
+
+   After analyzing all the information, I am ready to prepare a comprehensive report that formulates recommendations to address business issues and crafts conclusions and recommendations supported by SQL data.
+
 
 
 
