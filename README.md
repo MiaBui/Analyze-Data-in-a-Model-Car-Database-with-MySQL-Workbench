@@ -93,9 +93,27 @@ Through this project, I wanted to demonstrate my ability for data-driven decisio
 
 <img width="468" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/e3334e33-c601-46d5-b65f-42699a57995a">
 
-**Task 4 - Report**
+**Task 4 - Recommendations**
+**Warehouse Consolidation Recommendation:**
 
-   After analyzing all the information, I am ready to prepare a comprehensive report that formulates recommendations to address business issues and crafts conclusions and recommendations supported by SQL data.
+Upon analysis, it is evident that warehouse B houses the Classic cars, which exhibits the lowest sales performance and the highest quantity of overstocked products. However, despite these challenges, warehouse B boasts an impressive inventory, accommodating a total of 38 different products with a combined stock of 219,183 units. This establishes warehouse B as the facility with the highest storage capacity within our network.
+
+Conversely, Warehouse C presents a stark contrast with the lowest storage capacity among the four warehouses. Furthermore, Warehouse C currently operates at just 50% capacity, indicating a significant amount of unused space. This underutilization of resources represents a potential waste for the company.
+
+Considering these factors, it is recommended to close warehouse C and reallocate its inventory to warehouse B. This strategic consolidation not only maximizes the utilization of warehouse B's ample storage space but also streamlines inventory management by bringing together similar product line categories under one roof.
+
+This consolidation initiative offers the following benefits:
+
+1. **Optimized Space Utilization:** By redistributing inventory from warehouse C to warehouse B, we capitalize on the latter's extensive storage capacity, effectively utilizing available space and minimizing operational inefficiencies.
+
+2. **Streamlined Operations:** Consolidating warehouses simplifies inventory management processes, reducing complexity and enhancing overall operational efficiency. Managing similar product lines within a single facility facilitates streamlined logistics and inventory control.
+
+3. **Cost Savings:** The consolidation eliminates redundant overhead costs associated with maintaining multiple warehouses, leading to potential cost savings in operational expenditures and facility maintenance.
+
+In conclusion, the consolidation of warehouse C's inventory into warehouse B presents a strategic opportunity to enhance efficiency, reduce costs, and optimize inventory management practices. This recommendation aligns with our objective of maximizing operational effectiveness and leveraging resources for sustained growth and success.
+
+
+   
 
 
 
