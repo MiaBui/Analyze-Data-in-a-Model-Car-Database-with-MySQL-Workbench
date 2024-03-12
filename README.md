@@ -93,7 +93,7 @@ Through this project, I wanted to demonstrate my ability for data-driven decisio
 
 <img width="468" alt="image" src="https://github.com/thienhuongdn2002/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/144947062/e3334e33-c601-46d5-b65f-42699a57995a">
 
-**Task 4 - Recommendations**
+**Task 4**
 **Warehouse Consolidation Recommendation:**
 
 Upon analysis, it is evident that warehouse B houses the Classic cars, which exhibits the lowest sales performance and the highest quantity of overstocked products. However, despite these challenges, warehouse B boasts an impressive inventory, accommodating a total of 38 different products with a combined stock of 219,183 units. This establishes warehouse B as the facility with the highest storage capacity within our network.
